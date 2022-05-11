@@ -46,11 +46,3 @@ a::before {
     transform: scale(1.1);
 }
 
-h1 {
-    font-family: "Press Start 2P" , sans-serif;
-    display: inline-block;
-    font-size: 40px;
-    font-weight: 400;
-    color: #B4BEC8;
-    text-shadow: 4px 4px 0px #E5E5E5;
-}
