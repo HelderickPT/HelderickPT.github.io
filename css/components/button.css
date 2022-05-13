@@ -5,6 +5,8 @@
     box-shadow: 5px 5px 1px white;
     margin-right: 0;
     transition: transform 100ms cubic-bezier(.41,1.21,.57,2.97), box-shadow 100ms ease-in-out;
+    font-size: 20px;
+    color: #fff;
 }
 .button:hover { 
     box-shadow: none;
