@@ -1,10 +1,29 @@
 .banner {
+    box-sizing: border-box;    
     background-image: url(../../assets/image/foto\ main.svg);
     background-repeat: no-repeat;
     background-size: 100%;
     border-bottom: 10px solid #000;
-    height: 1040px;
+    height: 782px;
+    padding-top: 116px;
+    padding-left: 92px;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 688px;
     
+}
+
+.banner .box {
+    margin-bottom: 40px;
     
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around ;
+   
     
 }
