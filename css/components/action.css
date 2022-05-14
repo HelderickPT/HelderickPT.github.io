@@ -2,10 +2,9 @@
     display: inline-flex;
     align-items: center;
     color: #fff;
-    text-decoration: none;
-    font-weight:500;
-    
+    font-weight:500;    
     margin-right: 30px;
+    text-decoration: none;
    }
 
 .action::before {
