@@ -1,18 +1,18 @@
-.box {
+.main-box {
     display: inline-block;
     background-color: #DEEFEF;
     width: 600px;
-    box-shadow: 10px 10px 0 #FFF;
+    main-box-shadow: 10px 10px 0 #FFF;
     text-align: center;
     padding: 40px 44px;
 }
 
-.box .main-title {
+.main-box .main-title {
     margin-bottom: 28px;
     
 }
 
-.box.-second {
+.main-box.-second {
     height: 280px;
     width: 280px;
     background-color: #149A9B;
